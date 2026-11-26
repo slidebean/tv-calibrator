@@ -90,6 +90,11 @@ Issues and pull requests are welcome, especially:
 - Camera profiles for more iPhone models. You need a colorimeter; see
   [docs/ADDING-AN-IPHONE.md](docs/ADDING-AN-IPHONE.md).
 
+## Community ports
+
+- **Android:** [tv-calibrator-android](https://github.com/saqlain1020/tv-calibrator-android) by @saqlain1020. Unofficial and
+  community-maintained; not made or supported by Slidebean.
+
 ## Reporting problems
 
 Use [GitHub Issues](https://github.com/slidebean/tv-calibrator/issues). Include your iPhone model and your TV's brand and
